@@ -1,22 +1,5 @@
----
-title: AI Grammar Feedback Assistant
-emoji: 🎯
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
-tags:
-  - grammar
-  - speech-to-text
-  - whisper
-  - mixtral
-  - nlp
-  - education
-  - writing-assistant
----
+
+## [https://huggingface.co/spaces/glockholm/Grammar-Buddy](https://huggingface.co/spaces/glockholm/Grammar-Buddy)
 
 # 🎯 AI Grammar Feedback Assistant
 
